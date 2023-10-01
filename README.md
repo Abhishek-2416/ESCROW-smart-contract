@@ -5,6 +5,6 @@ An escrow is an agreement often used when transferring funds in exchange for a g
 
 Escrow Contract
 
-![alt text]([http://url/to/img.png](https://res.cloudinary.com/divzjiip8/image/upload/v1526784126/rlummazk4f0fycevsvbu.png))
+![alt text](https://res.cloudinary.com/divzjiip8/image/upload/v1526784126/rlummazk4f0fycevsvbu.png)
 
 There are many use cases for Escrows across real estate, charities and marketplaces. It's the bread and butter of Ethereum Smart Contracts as it's quite easy to write, and yet, so powerful. 
